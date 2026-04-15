@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Pushpa 👋
 
-<!--
-**Pushpa21-06/Pushpa21-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science Student  
+📊 Aspiring Data Analyst passionate about turning data into insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python  
+- SQL  
+- Excel  
+- Data Visualization  
+
+---
+
+## 📂 Projects
+
+### 📊 Data Analytics
+🔹 Sales Data Analysis (Python)  
+🔹 Data Cleaning Projects  
+
+### 🌐 Web Development
+🔹 Expense Tracker (HTML, CSS, JavaScript)  
+
+### 🤖 Python / Computer Vision
+🔹 Volume Gesture Controller (Python, OpenCV)  
+
+---
+
+## 🌱 Currently Learning
+- Data Cleaning  
+- Power BI  
+- Advanced Python  
+
+---
+
+## 📊 Goals
+- Build real-world data analytics projects  
+- Improve problem-solving using data  
+- Prepare for Data Analyst roles  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/pushpa-m-7890783b0
+
+)
